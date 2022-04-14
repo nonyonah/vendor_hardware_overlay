@@ -5,6 +5,6 @@
         <overlay android:targetPackage="android"
                 android:requiredSystemPropertyName="ro.vendor.build.fingerprint"
                 android:requiredSystemPropertyValue="+Nokia/Deadpool_00WW/DPL_sprout*"
-                android:priority="347"
+                android:priority="906"
                 android:isStatic="true" />
 </manifest>
